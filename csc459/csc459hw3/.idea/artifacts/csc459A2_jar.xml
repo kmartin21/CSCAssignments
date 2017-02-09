@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc459A2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc459A2_jar</output-path>
+    <root id="archive" name="csc459A2.jar">
+      <element id="module-output" name="csc459A2" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/servlet-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-java-5.1.38/mysql-connector-java-5.1.38-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

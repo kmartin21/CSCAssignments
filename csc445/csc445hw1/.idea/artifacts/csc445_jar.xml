@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="csc445:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/csc445_jar</output-path>
+    <root id="archive" name="csc445.jar">
+      <element id="module-output" name="csc445" />
+    </root>
+  </artifact>
+</component>
